@@ -175,9 +175,6 @@ This project is licensed under the MIT License.
 
 **Divyanshu Chauhan**
 
-GitHub: https://github.com/your-username
-
-LinkedIn: https://www.linkedin.com/in/your-profile
 
 ---
 
